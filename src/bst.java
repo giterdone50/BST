@@ -186,5 +186,6 @@ public class bst<E extends Comparable<E>>{
 		newTree.inorder();
 		newTree.search(Integer.valueOf(12));
 		System.out.println(800);
+		System.out.println("hello world");
 	}
 }
